@@ -36,7 +36,7 @@ Every decision is logged. Every guardrail is inspectable. Every agent action can
 
 ```bash
 # Clone
-git clone https://github.com/yourusername/tailspend.git
+git clone https://github.com/ahmed-khalil-hafsi/tailspend.git
 cd tailspend
 
 # Install (uv recommended)
